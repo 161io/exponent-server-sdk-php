@@ -82,7 +82,7 @@ class Expo
     /**
      * @param string|null $accessToken
      */
-    public function setAccessToken(string $accessToken = null) {
+    public function setAccessToken(?string $accessToken = null) {
         $this->accessToken = $accessToken;
     }
 
