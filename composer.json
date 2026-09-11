@@ -1,5 +1,5 @@
 {
-    "name": "alymosul/exponent-server-sdk-php",
+    "name": "161/exponent-server-sdk-php",
     "description": "Server-side library for working with Expo push notifications using PHP",
     "keywords": ["expo", "exponent", "push", "notifications"],
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=8.0",
         "ext-curl": "*",
         "ext-json": "*"
     },
